@@ -1,4 +1,11 @@
 /* Your custom styles */
-.header {
-    background-image: url(.../img/hillside.png);
+
+
+
+.jumbotron {
+    background-image: url('../img/Asset 1.png');
+    background-color: lightslategray;
+    background-size: contain;
+    background-repeat: no-repeat;
+
 }
